@@ -13,6 +13,7 @@ Design: Figma
 
 💼 Projects
 Tindog Project: Created a frontend interface for a dating app for dogs, showcasing skills in responsive design and user experience.
+
 Portfolio: Built a personal portfolio website to highlight my projects and skills in web development and design.
 
 
