@@ -24,4 +24,4 @@ New Technologies: Always curious about exploring new technologies, including adv
 
 📫 How to reach me:
 LinkedIn: Arti Reddy's LinkedIn
-Email: artireddy38@gmail.com
+Email: reddy.10082002@gmail.com
